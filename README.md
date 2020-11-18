@@ -6,10 +6,6 @@
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I enjoy reading, listening to music and learning to play the violin 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-missy_e.vercel.app/api/spotify-playing" alt="Elinor's Spotify Playing" width="350" />](https://open.spotify.com/playlist/5ctlr8HKh4Fh11foqkqbR3)
-
 ### Connect with me:
 
 [<img align="left" alt="elinoro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
